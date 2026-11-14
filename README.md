@@ -10,7 +10,8 @@
     <img src="materials%2Fpictures%2Finsomnia.png" alt="insomnia.png" width="50" height="50">
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px; margin-left: 50px; margin-top: 10px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+    &emsp;&emsp;&emsp;
     <img src="materials%2Fpictures%2Fdocker.png" alt="docker.png" width="50" height="50">
     <img src="materials%2Fpictures%2Fgit.png" alt="git.png" width="50" height="50">
     <img src="materials%2Fpictures%2Fgithub-dark.png" alt="github-dark.png" width="50" height="50">
@@ -18,7 +19,8 @@
     <img src="materials%2Fpictures%2Flinux.png" alt="linux.png" width="50" height="50">
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px;  margin-left: 80px; margin-top: 10px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+    &emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="materials%2Fpictures%2Fc.png" alt="c.png" width="50" height="50">
     <img src="materials%2Fpictures%2Fc-sharp.png" alt="c-sharp.png" width="50" height="50">
     <img src="materials%2Fpictures%2Fpython.png" alt="python.png" width="50" height="50">
