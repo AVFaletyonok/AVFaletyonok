@@ -1,31 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Alexander 👋
 
-<span id="clock"></span>
 
-<script>
-  function updateClock() {
-    const now = new Date();
-    document.getElementById("clock").textContent =
-      now.toLocaleTimeString("ru-RU");
-  }
-  updateClock();
-  setInterval(updateClock, 1000);
-</script>
+<img src="materials%2Fpictures%2Fjava.png" alt="java.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fspring.png" alt="spring.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fpostgresql.png" alt="postgresql.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fkafka.png" alt="kafka.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fswagger.png" alt="swagger.png" width="75" height="75">
 
-[//]: # (```mermaid)
-[//]: # (graph TD;)
-[//]: # (    A --> B;)
-[//]: # (    A --> C;)
-[//]: # (    B --> D;)
-[//]: # (    C --> D;)
-[//]: # (```)
+<img src="materials%2Fpictures%2Fpostman.png" alt="postman.png" width="75" height="75">
+<img src="materials%2Fpictures%2Finsomnia.png" alt="insomnia.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fdocker.png" alt="docker.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fgit.png" alt="git.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fgithub-dark.png" alt="github-dark.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fgitlab.png" alt="gitlab.png" width="75" height="75">
 
-[//]: # (<img src="materials%2Fpictures%2Fjava_hex_black-white.png" alt="java_mug" width="100" height="100">)
-[//]: # (<img src="materials%2Fpictures%2Fjava_mug.png" alt="java_mug" width="100" height="100">)
-
-<img src="materials%2Fpictures%2Fjava_round.png" alt="java_round.png" width="100" height="100">
-
-<img src="materials%2Fpictures%2Fsql_round.png" alt="sql_round.png" width="100" height="100">
+<img src="materials%2Fpictures%2Flinux.png" alt="linux.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fc.png" alt="c.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fc-sharp.png" alt="c-sharp.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fpython.png" alt="python.png" width="75" height="75">
+<img src="materials%2Fpictures%2Fvisualbasic.png" alt="visualbasic.png" width="75" height="75">
 
 <!--
 **AVFaletyonok/AVFaletyonok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
