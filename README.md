@@ -1,5 +1,12 @@
 ## Hi there, I'm Alexander 👋
 
+Glad to see you here!
+
+### О себе
+Junior Java-developer с 1-летним опытом разработки веб-приложений на базе микросервисной архитектуре.
+
+
+### Languages and Tools:
 <p>
     <img src="materials%2Fpictures%2Fjava.png" alt="java.png" width="50" height="50">
     <img src="materials%2Fpictures%2Fspring.png" alt="spring.png" width="50" height="50">
