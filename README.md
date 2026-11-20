@@ -5,7 +5,7 @@ Glad to see you here!
 ### О себе
 Junior Java-developer с 1-летним опытом разработки веб-приложений на базе микросервисной архитектуре.
 
-[![LeetCode stats](https://jsleetcodestatscard.vercel.app/api/leetcode-stats-card?username=AVFaletyonok&theme=dark)](leetcode-stats-card)
+[![LeetCode stats](https://jsleetcodestatscard.vercel.app/api/leetcode-stats-card?username=AVFaletyonok&theme=dark&hide_border=true)](leetcode-stats-card)
 
 ### Languages and Tools:
 <p>
