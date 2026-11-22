@@ -2,9 +2,12 @@
 
 Glad to see you here!
 
-### О себе
-Junior Java-developer с 1-летним опытом разработки веб-приложений на базе микросервисной архитектуре.
+### About myself
+Junior Java-developer with 1 year of experience building web applications based on microservice architecture.
 
+### My projects
+
+### My leetcode progress
 [![LeetCode stats](https://jsleetcodestatscard.vercel.app/api/leetcode-stats-card?username=AVFaletyonok&theme=dark&hide_border=true)](leetcode-stats-card)
 
 ### Languages and Tools:
