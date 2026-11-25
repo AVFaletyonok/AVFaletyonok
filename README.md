@@ -5,8 +5,6 @@ Glad to see you here!
 ### About myself
 Junior Java-developer with 1 year of experience building web applications based on microservice architecture.
 
-### My projects
-
 ### My leetcode progress
 [![LeetCode stats](https://jsleetcodestatscard.vercel.app/api/leetcode-stats-card?username=AVFaletyonok&theme=dark&hide_border=true)](leetcode-stats-card)
 
@@ -31,6 +29,11 @@ Junior Java-developer with 1 year of experience building web applications based 
     <img src="materials%2Fpictures%2Fpython.png" alt="python.png" width="50" height="50">
     <img src="materials%2Fpictures%2Fvisualbasic.png" alt="visualbasic.png" width="50" height="50">
 </p>
+
+### My projects
+
+The Snake developed in MS Excel by VBA - [VBATheSnake](https://github.com/AVFaletyonok/VBATheSnake).  
+<img src="materials%2Fpictures%2FTheSnakePlay.gif" alt="TheSnakePlay.gif" width="380" height="300">
 
 <!--
 **AVFaletyonok/AVFaletyonok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
