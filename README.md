@@ -6,7 +6,9 @@ Glad to see you here!
 Junior Java-developer with 1 year of experience building web applications based on microservice architecture.
 
 ### My leetcode progress
-[![LeetCode stats](https://jsleetcodestatscard.vercel.app/api/leetcode-stats-card?username=AVFaletyonok&theme=dark&hide_border=true)](leetcode-stats-card)
+By the way this dashboard is my project too - [LeetcodeStatsCard](https://github.com/AVFaletyonok/JS_LeetcodeStatsCard).  
+If you would like to add such card, feel free and visit this project readme.  
+![LeetCode stats card](https://jsleetcodestatscard.vercel.app/api/leetcode-stats-card?username=AVFaletyonok&theme=dark&borders=false)
 
 ### Languages and Tools:
 <p>
