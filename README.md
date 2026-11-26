@@ -37,6 +37,8 @@ If you would like to add such card, feel free and visit this project readme.
 The Snake developed in MS Excel by VBA - [VBATheSnake](https://github.com/AVFaletyonok/VBATheSnake).  
 <img src="materials%2Fpictures%2FTheSnakePlay.gif" alt="TheSnakePlay.gif" width="380" height="300">
 
+Be my guest to see my other projects)
+
 <!--
 **AVFaletyonok/AVFaletyonok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
