@@ -34,8 +34,15 @@ If you would like to add such card, feel free and visit this project readme.
 
 ### My projects
 
-The Snake developed in MS Excel by VBA - [VBATheSnake](https://github.com/AVFaletyonok/VBATheSnake).  
-<img src="materials%2Fpictures%2FTheSnakePlay.gif" alt="TheSnakePlay.gif" width="380" height="300">
+#### A Tetris game
+The Tetris game with classic mechanics,  
+is written in C around a finite-state machine, using the ncurses library and built with a Makefile.  
+Unit tests cover 90.9% of the code (check library) - [C_Tetris](https://github.com/AVFaletyonok/C_Tetris).  
+<img src="materials%2Fpictures%2FTheTetrisPlay.gif" alt="TheTetrisPlay.gif" width="465" height="350">
+
+#### A Snake game
+The Snake game is developed in MS Excel with VBA in the distant 2019 - [VBATheSnake](https://github.com/AVFaletyonok/VBATheSnake).  
+<img src="materials%2Fpictures%2FTheSnakePlay.gif" alt="TheSnakePlay.gif" width="465" height="350">
 
 Be my guest and see my other projects)
 
