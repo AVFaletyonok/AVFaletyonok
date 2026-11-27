@@ -3,7 +3,7 @@
 Glad to see you here!
 
 ### About myself
-Junior Java-developer with 1 year of experience building web applications based on microservice architecture.
+Junior Java-developer with 1 year of experience building web applications based on microservice architecture and not just that.
 
 ### My leetcode progress
 By the way this dashboard is my project too - [LeetcodeStatsCard](https://github.com/AVFaletyonok/JS_LeetcodeStatsCard).  
